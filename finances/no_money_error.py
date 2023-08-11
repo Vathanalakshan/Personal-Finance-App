@@ -1,3 +1,6 @@
+"""Exception method to handle no money in the bank"""
+
+
 class NoMoneyError(Exception):
     """Exception raised negative money.
 
