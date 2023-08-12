@@ -8,6 +8,6 @@ from datetime import datetime
 class Transaction(ABC):
     """Transaction abstact class"""
 
-    message: str
     value: int
+    message: str
     date: datetime
