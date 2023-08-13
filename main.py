@@ -1,10 +1,5 @@
 """Main """
-from datetime import datetime
-
 from finance_app import FinanceApp
-
-from finances.expense import Expense
-from finances.income import Income
 
 
 def main():
