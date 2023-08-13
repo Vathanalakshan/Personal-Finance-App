@@ -11,3 +11,8 @@ class Transaction(ABC):
     value: int
     message: str
     date: datetime
+
+    def __post_init__(self):
+        # Validate Value
+        if self.value < 0:
+            raise ValueError("Negative Value Error")
