@@ -1,6 +1,9 @@
 ﻿# Personal Finance App
 
-Python project showcasing object-oriented programming, data classes, and testing for a personal finance management application.
-It also implements pre-commit git hooks to make the code quality better.
+This Python project showcases object-oriented programming, data classes, and testing for a personal finance management application. It also implements pre-commit Git hooks to enhance code quality.
 
-With this app, you can track you Income,Expense and Savings, and also check the history of your transactions
+With this app, you can track your income, expenses, and savings. Additionally, you can review the history of your transactions.
+
+
+
+
